@@ -1,4 +1,7 @@
 <?php
+    // 1 - testando alterações!
+    
+    // testando 2º segunda alteração caso esqueça algo no comite
 
     function fator($n){
 
